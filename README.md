@@ -1,7 +1,12 @@
 # Instalação :
 # 1
 ```bash
-git clone Clone o repositório : https://github.com/dionathanmedeiros/appium-android-automation.git
+git clone
+```
+
+Clone o repositório : https://github.com/dionathanmedeiros/appium-android-automation.git
+
+```bash
 cd appium-android-automation
 ```
 # 2 
